@@ -1,4 +1,5 @@
-text file
+﻿text file
 こんにちはこんにちわ！
 金曜日が…あれ
 ちは～
+hello
