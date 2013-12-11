@@ -1,4 +1,4 @@
-﻿text file
+text file
 こんにちはこんにちわ！
 金曜日が…あれ
 ちは～
@@ -13,3 +13,5 @@ hello
 こちらは、 master branch 。
 
 鈴木テスト
+
+ハバネロ懐かしい…
