@@ -1,4 +1,9 @@
 text file
+
+develop branch を作成し、変更を加えてみます。
+SourceTree で branch を切り替えるには、 develop とか master とかいった branch 名をダブルクリックします。
+
+
 こんにちはこんにちわ！
 金曜日が…あれ
 ちは～
